@@ -300,6 +300,9 @@
 	  <extension name= 'xyformsservices' />
 	  <extension name= 'xyformsstorefrontcommons' />
 	  <extension name= 'xyformsweb' />
+	  <extension name= 'secureportaladdon' />
+	  <extension name= 'samlsinglesignon' />
+	  <extension name= 'samlssobackoffice' />
 
 
 <!-- Sample Custom Extensions -->
