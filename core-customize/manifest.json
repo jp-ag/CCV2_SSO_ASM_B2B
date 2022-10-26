@@ -83,7 +83,6 @@
                 "ysapproductconfigaddon"
             ],
             "storefronts": [
-                "yacceleratorstorefront",
                 "yb2bacceleratorstorefront"
             ],
             "template": "yacceleratorstorefront"
@@ -96,7 +95,8 @@
                 "chinesecommerceorgaddressaddon",
                 "commerceorgaddon",
                 "commerceorgsamplesaddon",
-                "sapproductconfigb2baddon"
+                "sapproductconfigb2baddon",
+                "secureportaladdon"
             ],
             "storefront": "yb2bacceleratorstorefront",
             "template": "yacceleratorstorefront"
@@ -109,11 +109,11 @@
         },
         {
             "key": "endpoint.hac.platform.init.disabled",
-            "value": "true"
+            "value": "false"
         },
         {
             "key": "endpoint.hac.platform.update.disabled",
-            "value": "true"
+            "value": "false"
         },
         {
             "key": "test.property.1",
@@ -223,10 +223,6 @@
                 {
                     "name": "backoffice",
                     "contextPath": "/backoffice"
-                },
-                {
-                    "name": "yacceleratorstorefront",
-                    "contextPath": "/yacceleratorstorefront"
                 },
                 {
                     "name": "yb2bacceleratorstorefront",
@@ -373,10 +369,6 @@
                 {
                     "name": "mediaweb",
                     "contextPath": "/medias"
-                },
-                {
-                    "name": "yacceleratorstorefront",
-                    "contextPath": "/yacceleratorstorefront"
                 },
                 {
                     "name": "yb2bacceleratorstorefront",
@@ -552,10 +544,6 @@
                 {
                     "name": "adaptivesearchwebservices",
                     "contextPath": "/adaptivesearchwebservices"
-                },
-                {
-                    "name": "yacceleratorstorefront",
-                    "contextPath": "/yacceleratorstorefront"
                 },
                 {
                     "name": "yb2bacceleratorstorefront",
