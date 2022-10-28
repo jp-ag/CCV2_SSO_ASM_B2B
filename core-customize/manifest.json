@@ -220,6 +220,10 @@
                     "contextPath": "/medias"
                 },
                 {
+                     "name": "samlsinglesignon",
+                     "contextPath": "/samlsinglesignon" 
+                },
+                {
                     "name": "backoffice",
                     "contextPath": "/backoffice"
                 },
@@ -392,6 +396,10 @@
                 {
                     "name": "orbeonweb",
                     "contextPath": "/web-orbeon"
+                },
+                {
+                    "name": "samlsinglesignon",
+                     "contextPath": "/samlsinglesignon"
                 },
                 {
                     "name": "xyformsweb",
