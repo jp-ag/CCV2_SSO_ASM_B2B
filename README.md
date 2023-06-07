@@ -5,7 +5,7 @@
 This sample repository contains the files and folders that are required to set up SAP Commerce Cloud. There are multiple branches covering different scenarios for Commerce Cloud (e.g. project Spartacus, data hub, solr customizations).  You can clone/download this repository, checkout the branch of interest and then follow the instructions in the readme to update the example files with your specific details. 
 The master branch covers a Commerce Cloud sample scenario that is based on the [CX recipe](https://help.sap.com/viewer/a74589c3a81a4a95bf51d87258c0ab15/latest/en-US/f09d46cf4a2546b586ed7021655e4715.html) 
 
-When your files are ready, push them to your SAP Commerce Cloud repository.  
+When your files are ready, push them to your SAP Commerce Cloud repository! 
 
 # Requirements
 
