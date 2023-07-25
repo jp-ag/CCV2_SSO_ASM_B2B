@@ -1,5 +1,5 @@
 {
-    "commerceSuiteVersion": "2205",
+    "commerceSuiteVersion": "2211",
     "enableImageProcessingService": true,
     "extensions": [
         "cloudmediaconversion",
@@ -637,7 +637,8 @@
     "tests": {
         "extensions": [
             "kiwi",
-            "tiger"
+            "tiger",
+            "concerttours"
         ],
         "annotations": [
             "UnitTests",
