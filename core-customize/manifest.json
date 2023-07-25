@@ -637,7 +637,8 @@
     "tests": {
         "extensions": [
             "kiwi",
-            "tiger"
+            "tiger",
+	    "concerttours"
         ],
         "annotations": [
             "UnitTests",
